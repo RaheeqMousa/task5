@@ -1,0 +1,27 @@
+.DivClass{
+    text-align:center;
+}
+
+.DevelopersDiv{
+    float: left;
+    width: 33.33333%;
+}
+
+.ParagraphClass{
+    color:grey;
+}
+
+.ClearFix{
+    clear:left;
+}
+
+.ButtomClass{
+   color:grey;
+   width:50%;
+
+}
+
+i{
+    width:5%;
+}
+
